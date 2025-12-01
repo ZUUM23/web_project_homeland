@@ -3,7 +3,7 @@
   align-items: center;
   flex-direction: column;
   flex-wrap: wrap;
-  padding: 34px 148px 24px;
+  padding: 34px 148px 118px 148px;
   margin: 0;
 }
 .header__title {

@@ -1,0 +1,10 @@
+.footer {
+  margin: 90px auto 25px;
+}
+.footer__paragraph {
+  text-align: center;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400px;
+}
